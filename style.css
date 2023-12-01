@@ -1,9 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 
 }
 
 .container {
     width: 80%;
     margin: 0 auto;
+}
+
+textarea {
+    width: 60%;
+    height: 150px;
+    margin: 0 auto; 
+    display: block;
 }
